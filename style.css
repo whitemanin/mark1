@@ -93,6 +93,7 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
 }
 
 .top_of_header {
+    max-width: 100%;
     margin: 0 60px ;
     margin-top: 35px;
     padding-bottom: 20px;
